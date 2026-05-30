@@ -1,0 +1,101 @@
+complaint_text,officer,priority,eta_days
+No water supply in our colony for three days,Water Officer,High,2
+Water pipeline leakage near the market area,Water Officer,High,2
+Drinking water is contaminated with mud,Water Officer,High,2
+Low water pressure in residential apartments,Water Officer,High,2
+Water tank overflow causing wastage,Water Officer,High,2
+Water supply disrupted after maintenance work,Water Officer,High,2
+Leakage from underground water pipeline,Water Officer,High,2
+Irregular water supply during mornings,Water Officer,High,2
+Water not reaching upper floors of apartment,Water Officer,High,2
+Broken public water tap near bus stand,Water Officer,High,2
+Dirty water coming from household taps,Water Officer,Medium,5
+Water shortage affecting entire locality,Water Officer,Medium,5
+Pipeline burst causing water accumulation,Water Officer,Medium,5
+No drinking water available in public area,Water Officer,Medium,5
+Water meter issue causing incorrect readings,Water Officer,Medium,5
+Continuous water leakage near school,Water Officer,Medium,5
+Insufficient water supply in summer season,Water Officer,Medium,5
+Public hand pump not functioning,Water Officer,Medium,5
+Water connection damaged during road work,Water Officer,Low,9
+Complaints about bad smell in water,Water Officer,Low,9
+Water supply stopped without notice,Water Officer,Low,9
+Water tank cleaning required urgently,Water Officer,Low,9
+Water pressure dropped suddenly this week,Water Officer,Low,9
+Water leakage wasting large quantities,Water Officer,Low,9
+Residents facing severe drinking water problem,Water Officer,Low,9
+Street lights are not functioning,Electrical Officer,High,2
+Electric pole damaged after rainfall,Electrical Officer,High,2
+Frequent power fluctuations in our locality,Electrical Officer,High,2
+Transformer emitting sparks,Electrical Officer,High,2
+Power outage affecting several houses,Electrical Officer,High,2
+Broken street light near school,Electrical Officer,High,2
+Loose electrical wires hanging on road,Electrical Officer,High,2
+Transformer overload causing interruptions,Electrical Officer,High,2
+Electricity supply interrupted every evening,Electrical Officer,High,2
+Street light blinking continuously,Electrical Officer,High,2
+Power failure in residential block,Electrical Officer,Medium,5
+Damaged electric pole creating safety risk,Electrical Officer,Medium,5
+Voltage fluctuations damaging appliances,Electrical Officer,Medium,5
+Street lights not working in park area,Electrical Officer,Medium,5
+Electric meter box damaged,Electrical Officer,Medium,5
+Frequent transformer trips in locality,Electrical Officer,Medium,5
+Electric cable exposed near playground,Electrical Officer,Medium,5
+Power outage after heavy winds,Electrical Officer,Medium,5
+Short circuit issue reported by residents,Electrical Officer,Low,9
+Street light remains on during daytime,Electrical Officer,Low,9
+Electric connection issue in public building,Electrical Officer,Low,9
+Sparking observed from utility pole,Electrical Officer,Low,9
+Street lights not functioning on main road,Electrical Officer,Low,9
+Unstable electricity supply in neighborhood,Electrical Officer,Low,9
+Damaged transformer requiring immediate repair,Electrical Officer,Low,9
+Garbage has not been collected for a week,Sanitation Officer,High,3
+Overflowing dustbins causing foul smell,Sanitation Officer,High,3
+Drainage blockage near residential area,Sanitation Officer,High,3
+Mosquito breeding due to stagnant water,Sanitation Officer,High,3
+Public toilet cleanliness issue,Sanitation Officer,High,3
+Garbage scattered across the street,Sanitation Officer,High,3
+Drain overflow creating unhygienic conditions,Sanitation Officer,High,3
+Waste collection vehicle not visiting area,Sanitation Officer,High,3
+Accumulated garbage attracting stray animals,Sanitation Officer,High,3
+Sewage water leaking onto road,Sanitation Officer,High,3
+Unclean public restroom near market,Sanitation Officer,Medium,6
+Garbage bin damaged and unusable,Sanitation Officer,Medium,6
+Improper waste disposal near school,Sanitation Officer,Medium,6
+Drainage water stagnation causing odor,Sanitation Officer,Medium,6
+Household waste not collected regularly,Sanitation Officer,Medium,6
+Overflowing garbage near apartment complex,Sanitation Officer,Medium,6
+Blocked sewer line affecting homes,Sanitation Officer,Medium,6
+Poor sanitation in public park,Sanitation Officer,Medium,6
+Waste dumped in vacant plot,Sanitation Officer,Low,9
+Uncollected garbage after festival event,Sanitation Officer,Low,9
+Drain cleaning required urgently,Sanitation Officer,Low,9
+Sewage blockage causing water backup,Sanitation Officer,Low,9
+Garbage accumulation near hospital,Sanitation Officer,Low,9
+Public sanitation issue in bus stand,Sanitation Officer,Low,9
+Foul smell due to waste accumulation,Sanitation Officer,Low,9
+Large potholes on the main road,Road Maintenance Officer,High,4
+Road damaged after heavy rain,Road Maintenance Officer,High,4
+Broken pavement causing accidents,Road Maintenance Officer,High,4
+Construction debris blocking traffic,Road Maintenance Officer,High,4
+Uneven road surface near school,Road Maintenance Officer,High,4
+Deep potholes creating traffic hazards,Road Maintenance Officer,High,4
+Road cracks increasing every day,Road Maintenance Officer,High,4
+Damaged speed breaker on residential road,Road Maintenance Officer,High,4
+Road shoulder erosion causing safety concerns,Road Maintenance Officer,High,4
+Main road flooded due to poor drainage,Road Maintenance Officer,High,4
+Broken footpath near shopping area,Road Maintenance Officer,Medium,6
+Road surface damaged by heavy vehicles,Road Maintenance Officer,Medium,6
+Potholes near bus stop causing accidents,Road Maintenance Officer,Medium,6
+Incomplete road repair work,Road Maintenance Officer,Medium,6
+Damaged road markings affecting drivers,Road Maintenance Officer,Medium,6
+Loose gravel creating unsafe conditions,Road Maintenance Officer,Medium,6
+Road sinking near drainage line,Road Maintenance Officer,Medium,6
+Broken pedestrian crossing area,Road Maintenance Officer,Medium,6
+Road obstruction due to construction materials,Road Maintenance Officer,Low,10
+Damaged culvert affecting transportation,Road Maintenance Officer,Low,10
+Cracked roadway near residential colony,Road Maintenance Officer,Low,10
+Road maintenance required urgently,Road Maintenance Officer,Low,10
+Multiple potholes near hospital entrance,Road Maintenance Officer,Low,10
+Damaged internal roads in housing area,Road Maintenance Officer,Low,10
+Unsafe road conditions after recent rains,Road Maintenance Officer,Low,10

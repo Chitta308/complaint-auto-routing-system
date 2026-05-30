@@ -1,0 +1,24 @@
+pandas==2.2.3
+numpy==2.0.2
+
+scikit-learn==1.5.2
+joblib==1.4.2
+
+sentence-transformers==3.0.1
+transformers==4.44.2
+torch==2.4.1
+
+faiss-cpu==1.8.0
+
+streamlit==1.38.0
+
+# faster-whisper==1.0.3
+# moviepy==1.0.3
+
+openpyxl==3.1.5
+
+faster-whisper==1.2.0
+moviepy==2.2.1
+ffmpeg-python==0.2.0
+ctranslate2==4.6.0
+av==15.1.0
